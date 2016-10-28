@@ -1,0 +1,150 @@
+Rithala,300,40
+Rohini West,362,52
+Rohini East,306,70
+Pitampura,394,82
+Kohat Enclave,326,102
+Netaji Subhash Place,423,112
+Keshav Puram,356,132
+Kanhaiya Nagar,451,140
+Shastri Nagar,456,176
+Pulbangash,530,176
+Shastri Park,630,176
+Seelampur,678,152
+Welcome,708,176
+Shahdara,748,152
+Mansarovar Park,768,176
+Jhilmil,828,152
+Dilshad Garden,858,176
+Jahangirpuri,454,10
+Adarsh Nagar,470,28
+Azadpur,565,44
+Model Town,510,64
+G.T.B. Nagar,600,82
+Vishwavidyalaya,610,112
+Vidhan Sabha,527,128
+Civil Lines,610,142
+Chandni Chawk,606,186
+Chawri Bazar,606,206
+New Delhi,606,228
+Rajiv Chawk,606,274
+Patel Chawk,540,298
+Udyog Bhawan,524,332
+Race Course,534,355
+Jor Bagh,548,380
+INA,572,404
+AIIMS,566,428
+Green Park,542,452
+Hauz Khas,540,476
+Malviya Nagar,526,500
+Saket,568,524
+Qutab Minar,536,548
+Chhattarpur,594,584
+Sultanpur,508,602
+Ghitorni,550,626
+Arjangarh,532,650
+Guru Dronacharya,462,676
+Sikanderpur,432,652
+M G Road,408,676
+IFFCO Chawk,362,652
+HUDA City Centre,300,684
+Shivaji Stadium,446,304
+Dhaula Kuan,410,414
+Delhi Aero City,270,454
+I.G.I. Airport,310,498
+Ashok,410,146
+Park Main",405,154
+Satguru Ram Singh Marg,422,192
+Punjabi Bagh,362,180
+Shivaji Park,334,154
+Madipur,314,182
+Paschim,284,146
+Vihar East,280,154
+Paschim,256,182
+Vihar West,248,192
+Peeragarhi,220,154
+Udyog Nagar,184,182
+Surajmal,166,146
+Stadium,166,154
+Nangloi,136,182
+Nangloi,104,146
+Railway Station,86,154
+Rajdhani Park,66,182
+Mundka,40,154
+Noida City Centre,1014,454
+Golf Course,1000,430
+Botanical Garden,890,436
+Noida Sector 18,962,412
+Noida Sector 16,848,406
+Noida Sector 15,910,380
+New Ashok Nagar,784,372
+Mayur Vihar Extn.,860,350
+Mayur Vihar I,754,342
+Akshardham,804,318
+Yamuna,734,292
+Bank,734,302
+Indraprastha,694,324
+Pragati Maidan,654,300
+Mandi House,622,324
+Barakhamba,616,286
+Road,624,294
+R.K.,546,254
+Ashram,534,265
+Jhandewalan,526,234
+Karol Bagh,480,254
+Rajendra Place,450,234
+Patel Nagar,406,256
+Shadipur,420,224
+Kirti Nagar,406,208
+Moti Nagar,304,214
+Ramesh Nagar,348,242
+Rajouri Garden,244,252
+Tagore Garden,312,274
+Subhash Nagar,208,286
+Tilak Nagar,274,312
+Janakpuri East,166,324
+Janakpuri West,230,346
+Uttam Nagar East,188,376
+Uttam Nagar West,124,350
+Nawada,140,376
+Dwarka Mor,68,368
+Dwarka,70,386
+Dwarka,124,396
+Sector 14,124,406
+Dwarka,106,440
+Sector 13,106,450
+Dwarka,166,424
+Sector 12,166,434
+Dwarka,150,470
+Sector 11,150,480
+Dwarka,210,460
+Sector 10,210,470
+Dwarka,190,504
+Sector 9,190,514
+Dwarka,248,490
+Sector 8,248,500
+Dwarka,260,536
+Sector 21,260,548
+Laxmi Nagar,736,276
+Nirman Vihar,824,276
+Preet Vihar,796,236
+Karkarduma,870,210
+Anand Vihar,904,234
+ISBT,920,244
+Kaushambi,940,210
+Vaishali,980,234
+Khan Market,638,350
+JLN,664,370
+Stadium,660,380
+Jangpura,620,398
+Lajpat Nagar,712,414
+Kailash Colony,764,454
+Moolchand,666,438
+Nehru Place,720,482
+Kalkaji Mandir,816,494
+Govindpuri,772,520
+Okhla,872,534
+Jasola Apollo,820,558
+Sarita Vihar,928,574
+Mohan Estate,876,600
+Tughlakabad,982,614
+Badarpur,946,636

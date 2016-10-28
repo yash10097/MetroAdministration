@@ -1,0 +1,135 @@
+17
+10
+3
+Inderlok
+Ashok Park Main
+Kirti Nagar
+80
+21.78
+15
+1
+20
+8
+Ashok Park Main
+4
+false
+8800793204
+432
+160
+1
+20
+8
+Punjabi Bagh
+4
+false
+8800793205
+390
+160
+1
+20
+8
+Shivaji Park
+4
+false
+8800793206
+360
+160
+1
+20
+8
+Madipur
+4
+false
+8800793207
+330
+160
+1
+20
+8
+Paschim Vihar East
+4
+false
+8800793208
+300
+160
+1
+20
+8
+Paschim Vihar West
+4
+false
+8800793209
+270
+160
+1
+20
+8
+Peera Garhi
+4
+false
+8800793210
+240
+160
+1
+20
+8
+Udyog Nagar
+4
+false
+8800793211
+210
+160
+1
+20
+8
+Surajmal Stadium
+4
+false
+8800793212
+180
+160
+1
+20
+8
+Nangloi
+4
+false
+8800793213
+150
+160
+1
+20
+8
+Nangloi Railway Station
+4
+false
+8800793214
+120
+160
+1
+20
+8
+Rajdhani Park
+4
+false
+8800793215
+90
+160
+1
+20
+8
+Mundka
+4
+false
+8800793216
+60
+160
+1
+120
+8
+Satguru RamSingh
+4
+false
+8800793217
+408
+185

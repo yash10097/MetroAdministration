@@ -1,0 +1,67 @@
+6
+20
+1
+New Delhi
+132
+22.7
+8
+2
+20
+30
+8
+6
+New Delhi
+10
+6
+true
+8800793132
+594
+220
+1
+20
+8
+Shivaji Stadium
+6
+true
+30802080
+520
+296
+1
+20
+8
+Dhaula Kuan
+6
+false
+30802080
+393
+404
+1
+20
+8
+Delhi Aerocity
+6
+true
+30802080
+343
+447
+1
+20
+8
+I.G.I. Airport
+6
+true
+30802080
+293
+490
+2
+20
+30
+8
+6
+Dwarka Sector 21
+10
+6
+true
+8800793197
+263
+518
